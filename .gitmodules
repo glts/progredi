@@ -1,0 +1,3 @@
+[submodule "progress"]
+	path = progress
+	url = git://github.com/glts/django-progress.git
